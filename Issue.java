@@ -17,4 +17,5 @@ public class Issue {
     private String state;
     private List<String> labels;
     private Map<String, String> metadata;
+    // test
 }
