@@ -18,4 +18,5 @@ public class Issue {
     private List<String> labels;
     private Map<String, String> metadata;
     // test
+    // test
 }
